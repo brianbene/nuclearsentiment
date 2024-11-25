@@ -1,6 +1,8 @@
 # Nuclear Sentiment Analysis Dataset
 
 This repository contains a dataset created to analyze public sentiment surrounding nuclear power, including its uses, benefits, and challenges. The dataset was compiled from various publicly available sources, including online news outlets and social media platforms, and was analyzed using the VADER sentiment analysis tool.
+## Pitch Video
+Check out my dataset pitch video [here](https://1drv.ms/v/c/672e2759a0c72e03/ET4nLEDrYv5Cp02UUXLaT4EBIYM1OBKUzT_d8-LT9x4ZYg?e=GNAPKX).
 
 ---
 
